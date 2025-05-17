@@ -42,7 +42,6 @@
 
 #include <iostream>
 #include <string>
-#include <stack>
 #include <vector>
 #include <algorithm>
 #include <cmath>
